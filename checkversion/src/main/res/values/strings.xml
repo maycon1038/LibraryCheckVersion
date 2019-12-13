@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">CheckVersion</string>
+	<string name="linkPlayStore">https://play.google.com/store/apps/details?id=%1$s</string>
+	<string name="atualizarApp">Você está usando uma versão antiga do %1$s.  Atualize o aplicativo para evitar falhas e garantir acesso aos serviços disponíveis. Deseja atualizar agora?</string>
+	<string name="btn_nao">Não</string>
+	<string name="btn_sim">Sim</string>
+</resources>
